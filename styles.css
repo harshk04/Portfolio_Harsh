@@ -134,7 +134,7 @@ h3{    font-family: 'Nunito', sans-serif;}
 #element{
     background-color: black;
 }
-/*
+
 .educaton h1{
     background: #e5ecfb;
 }
@@ -164,7 +164,7 @@ h3{    font-family: 'Nunito', sans-serif;}
     text-align: center;
 
 }
-*/
+/*
 .education {
   background: #e5ecfb;
   min-height: 80vh;
@@ -239,9 +239,9 @@ h3{    font-family: 'Nunito', sans-serif;}
   font-family: "Nunito", sans-serif;
   font-weight: 700;
 }
-
+*/
 /* education media queries starts*/
-@media screen and (max-width: 600px) {
+/*@media screen and (max-width: 600px) {
   .education .box-container .box {
     flex-direction: column;
     width: 100%;
@@ -268,7 +268,7 @@ h3{    font-family: 'Nunito', sans-serif;}
     flex-wrap: wrap;
   }
 }
-
+*/
 .experience{
     background: #000031;
 }
